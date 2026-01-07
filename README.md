@@ -1,7 +1,6 @@
 Employee Management System
 
 A simple and efficient application to manage employee records, including adding, updating, listing, and deleting employee details.
-
 ---
 
 # 🚀 Tech Stack
