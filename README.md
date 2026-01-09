@@ -2,8 +2,6 @@
 
 A simple and efficient application to manage employee records, including adding, updating, listing, and deleting employee details.
 
----
-
 # 🚀 Tech Stack
 
 Java (Core Java / OOPs)
@@ -13,8 +11,6 @@ Collections Framework (ArrayList)
 CLI-based Application (Console interaction)
 
 JDK 8+ required
-
----
 
 # 📌 Features
 
@@ -30,8 +26,6 @@ Search employees
 
 User-friendly console interface
 
----
-
 # 🛠️ Requirements
 
 Java JDK 8 or higher
@@ -39,8 +33,6 @@ Java JDK 8 or higher
 Any Java IDE (IntelliJ, Eclipse, VS Code) — Optional
 
 Git (to clone repository)
-
----
 
 # 📥 Setup Instructions
 
@@ -64,8 +56,6 @@ javac EmployeeManagementSystem.java
 
 java EmployeeManagementSystem
 
----
-
 # ▶️ How to Use
 
 Once the app starts, you will see menu options like:
@@ -80,8 +70,6 @@ Once the app starts, you will see menu options like:
 Choose an option by entering the number
 
 Follow the instructions displayed on the console
-
----
 
 🧪 How to Test
 
@@ -104,7 +92,6 @@ Example:
 2. View Employees
 ...
 
----
 
 # 🔮 Future Improvements
 
@@ -115,8 +102,6 @@ GUI application (JavaFX / Swing)
 REST API using Spring Boot
 
 Authentication & role-based access
-
----
 
 # 🤝 Contributions
 
